@@ -5,9 +5,9 @@
 **Budget & Duration:** ₹400 budget over 5 days
 
 **Results:**
-- 869 views from 71 impressions
+- 869 views from 22K+ impressions
 - 2 conversions (subscriptions)
-- Cost per conversion: ₹200
+  
 
 **Tools Used:**
 - Google Ads
