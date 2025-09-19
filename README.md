@@ -21,4 +21,4 @@
 - Content Creation & AI Assistance
 
 **Screenshots:**  
-(Include PDF or image files uploaded in the repo)
+(Include PDF file uploaded in the repo)
